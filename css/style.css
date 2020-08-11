@@ -1,0 +1,25 @@
+/* Custom page CSS
+-------------------------------------------------- */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
+.footer > .container {
+  color: #929292; 
+  background-color: #cccccc;
+  border-radius: 3px;
+  display: flexbox;
+  text-align: center;
+  clear: both;
+}
+
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
