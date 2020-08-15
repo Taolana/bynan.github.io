@@ -7,13 +7,14 @@
   padding: 0 15px;
 }
 
-.footer > .container {
-  color: #929292; 
-  background-color: #cccccc;
-  border-radius: 3px;
-  display: flexbox;
+.container-footer{
   text-align: center;
-  clear: both;
+}
+footer p{
+  color: #999999;
+  background-color: #e7e7e7;
+  border-radius: 2px;
+  border: solid 1px #999999;
 }
 
 body {
@@ -22,4 +23,8 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+
+.image-tab{
+  width: 30px;
 }
